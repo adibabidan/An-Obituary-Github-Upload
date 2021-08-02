@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: bcad782c6973e90488895fe49d29c6d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4862659206970528626
+    second: brick walls finished_0
+  - first:
+      213: -6768798970026419627
+    second: brick walls finished_1
+  - first:
+      213: 2926668503002362877
+    second: brick walls finished_2
+  - first:
+      213: 7177139956506349680
+    second: brick walls finished_3
+  - first:
+      213: -7010300976025976434
+    second: brick walls finished_4
+  - first:
+      213: -8024538139377538460
+    second: brick walls finished_5
+  - first:
+      213: 5654918781754089220
+    second: brick walls finished_6
+  - first:
+      213: 1712834268346881662
+    second: brick walls finished_7
+  - first:
+      213: 2805148859124167170
+    second: brick walls finished_8
+  - first:
+      213: -2888057263210788093
+    second: brick walls finished_9
+  - first:
+      213: -8884085947109384971
+    second: brick walls finished_10
+  - first:
+      213: 7031880400734478433
+    second: brick walls finished_11
+  - first:
+      213: -371051909402470323
+    second: brick walls finished_12
+  - first:
+      213: -3661725810008266177
+    second: brick walls finished_13
+  - first:
+      213: 377636715153782876
+    second: brick walls finished_14
+  - first:
+      213: 1148532720801031750
+    second: brick walls finished_15
+  - first:
+      213: 6346679516935159635
+    second: brick walls finished_16
+  - first:
+      213: 1132578688226338029
+    second: brick walls finished_17
+  - first:
+      213: 4139650325984195531
+    second: brick walls finished_18
+  - first:
+      213: 8140827625994505818
+    second: brick walls finished_19
+  - first:
+      213: -1568792939674510249
+    second: brick walls finished_20
+  - first:
+      213: -2075586225476192286
+    second: brick walls finished_21
+  - first:
+      213: 9123663114357626433
+    second: brick walls finished_22
+  - first:
+      213: 264749433766466301
+    second: brick walls finished_23
+  - first:
+      213: -4265226401277697981
+    second: brick walls finished_24
+  - first:
+      213: 7889496996945890862
+    second: brick walls finished_25
+  - first:
+      213: 4028063497618433476
+    second: brick walls finished_26
+  - first:
+      213: -5565651030340513559
+    second: brick walls finished_27
+  - first:
+      213: -7011317368633264794
+    second: brick walls finished_28
+  - first:
+      213: 7231725137206696303
+    second: brick walls finished_29
+  - first:
+      213: -954139069272042135
+    second: brick walls finished_30
+  - first:
+      213: 5297379138572451522
+    second: brick walls finished_31
+  - first:
+      213: -133183175221722069
+    second: brick walls finished_32
+  - first:
+      213: -3612463092171911994
+    second: brick walls finished_33
+  - first:
+      213: 6110792467134528294
+    second: brick walls finished_34
+  - first:
+      213: 1485155640679736131
+    second: brick walls finished_35
+  - first:
+      213: 4906917668164238565
+    second: brick walls finished_36
+  - first:
+      213: -109755901552292106
+    second: brick walls finished_37
+  - first:
+      213: -8555830048350348
+    second: brick walls finished_38
+  - first:
+      213: 6637634403094894918
+    second: brick walls finished_39
+  - first:
+      213: -3783376415913125101
+    second: brick walls finished_40
+  - first:
+      213: 8160336695842500436
+    second: brick walls finished_41
+  - first:
+      213: 1344692970187765926
+    second: brick walls finished_42
+  - first:
+      213: 1791966437143972547
+    second: brick walls finished_43
+  - first:
+      213: 938576748152786618
+    second: brick walls finished_44
+  - first:
+      213: 778698337428871716
+    second: brick walls finished_45
+  - first:
+      213: -110493724577607080
+    second: brick walls finished_46
+  - first:
+      213: 869393804415516955
+    second: brick walls finished_47
+  - first:
+      213: -5625093715569731992
+    second: brick walls finished_48
+  - first:
+      213: -6825449256802150474
+    second: brick walls finished_49
+  - first:
+      213: -7634774679588358832
+    second: brick walls finished_50
+  - first:
+      213: -6732296608275025874
+    second: brick walls finished_51
+  - first:
+      213: -8354738472656403788
+    second: brick walls finished_52
+  - first:
+      213: 8758754131015559787
+    second: brick walls finished_53
+  - first:
+      213: 7882857916887800936
+    second: brick walls finished_54
+  - first:
+      213: 7295655583769378457
+    second: brick walls finished_55
+  - first:
+      213: -5570535703512770994
+    second: brick walls finished_56
+  - first:
+      213: 2564503385871200378
+    second: brick walls finished_57
+  - first:
+      213: 1088231848925527419
+    second: brick walls finished_58
+  - first:
+      213: 7733947815541352996
+    second: brick walls finished_59
+  - first:
+      213: 6653764928204471619
+    second: brick walls finished_60
+  - first:
+      213: -1946174124404058227
+    second: brick walls finished_61
+  - first:
+      213: -1817704053479375510
+    second: brick walls finished_62
+  - first:
+      213: 1617077416534657803
+    second: brick walls finished_63
+  - first:
+      213: -3262011908663016190
+    second: brick walls finished_64
+  - first:
+      213: -6709356799166059737
+    second: brick walls finished_65
+  - first:
+      213: -8721821802061184564
+    second: brick walls finished_66
+  - first:
+      213: -8688585775309312692
+    second: brick walls finished_67
+  - first:
+      213: 5088026929954168488
+    second: brick walls finished_68
+  - first:
+      213: 7148588112333499637
+    second: brick walls finished_69
+  - first:
+      213: 8057387391310095218
+    second: brick walls finished_70
+  - first:
+      213: 2712190981917706528
+    second: brick walls finished_71
+  - first:
+      213: -8508767010744272491
+    second: brick walls finished_72
+  - first:
+      213: -607791880089319568
+    second: brick walls finished_73
+  - first:
+      213: -1722961587118208929
+    second: brick walls finished_74
+  - first:
+      213: -2702278398876988057
+    second: brick walls finished_75
+  - first:
+      213: 7082895555799548453
+    second: brick walls finished_76
+  - first:
+      213: -5610929223967314101
+    second: brick walls finished_77
+  - first:
+      213: 92836955659599027
+    second: brick walls finished_78
+  - first:
+      213: -7141003523752666441
+    second: brick walls finished_79
+  - first:
+      213: 4018894732889773427
+    second: brick walls finished_80
+  - first:
+      213: -4529397628689503081
+    second: brick walls finished_81
+  - first:
+      213: 4818603031221680930
+    second: brick walls finished_82
+  - first:
+      213: -3954198381097768619
+    second: brick walls finished_83
+  - first:
+      213: -6504987896028223770
+    second: brick walls finished_84
+  - first:
+      213: 2225217074990613931
+    second: brick walls finished_85
+  - first:
+      213: -5740765485090776280
+    second: brick walls finished_86
+  - first:
+      213: -3108646507555402441
+    second: brick walls finished_87
+  - first:
+      213: 109224412119370861
+    second: brick walls finished_88
+  - first:
+      213: -2661389232620176556
+    second: brick walls finished_89
+  - first:
+      213: 1172512382336463316
+    second: brick walls finished_90
+  - first:
+      213: 7908955779723764606
+    second: brick walls finished_91
+  - first:
+      213: 8604373585884215041
+    second: brick walls finished_92
+  - first:
+      213: -7870526414178115939
+    second: brick walls finished_93
+  - first:
+      213: 7268437092221782193
+    second: brick walls finished_94
+  - first:
+      213: 9014189321465091154
+    second: brick walls finished_95
+  - first:
+      213: -6089973023703187830
+    second: brick walls finished_96
+  - first:
+      213: -740331990850424116
+    second: brick walls finished_97
+  - first:
+      213: 5353533580809503568
+    second: brick walls finished_98
+  - first:
+      213: 9158622897776341561
+    second: brick walls finished_99
+  - first:
+      213: 2083545154687124706
+    second: brick walls finished_100
+  - first:
+      213: -1982323564119686240
+    second: brick walls finished_101
+  - first:
+      213: -856488471528041452
+    second: brick walls finished_102
+  - first:
+      213: -9213317141007010382
+    second: brick walls finished_103
+  - first:
+      213: -6854164103734104491
+    second: brick walls finished_104
+  - first:
+      213: 411617071050385959
+    second: brick walls finished_105
+  - first:
+      213: 5184854519260977559
+    second: brick walls finished_106
+  - first:
+      213: -4983994234503150414
+    second: brick walls finished_107
+  - first:
+      213: -5818522350574982277
+    second: brick walls finished_108
+  - first:
+      213: -1651027358742991656
+    second: brick walls finished_109
+  - first:
+      213: 272204770395832049
+    second: brick walls finished_110
+  - first:
+      213: -6958858111910957333
+    second: brick walls finished_111
+  - first:
+      213: -2244403682764676919
+    second: brick walls finished_112
+  - first:
+      213: -7130809700656853563
+    second: brick walls finished_113
+  - first:
+      213: -8904529383454515583
+    second: brick walls finished_114
+  - first:
+      213: -5466350530081338244
+    second: brick walls finished_115
+  - first:
+      213: -8672480183062254103
+    second: brick walls finished_116
+  - first:
+      213: -168564627274312248
+    second: brick walls finished_117
+  - first:
+      213: -3350701833671845333
+    second: brick walls finished_118
+  - first:
+      213: 8473161085969809742
+    second: brick walls finished_119
+  - first:
+      213: -4256121949488527549
+    second: brick walls finished_120
+  - first:
+      213: 2154841323976512941
+    second: brick walls finished_121
+  - first:
+      213: -8037509807192065821
+    second: brick walls finished_122
+  - first:
+      213: 2735798323104185365
+    second: brick walls finished_123
+  - first:
+      213: 5064181643913963425
+    second: brick walls finished_124
+  - first:
+      213: -8046881877353764919
+    second: brick walls finished_125
+  - first:
+      213: 8623714101426606579
+    second: brick walls finished_126
+  - first:
+      213: 5876476364645841237
+    second: brick walls finished_127
+  - first:
+      213: 6079284934925512512
+    second: brick walls finished_128
+  - first:
+      213: 2471115917822870163
+    second: brick walls finished_129
+  - first:
+      213: -4302037568458440726
+    second: brick walls finished_130
+  - first:
+      213: -5982333548579885526
+    second: brick walls finished_131
+  - first:
+      213: 2309273608695490387
+    second: brick walls finished_132
+  - first:
+      213: 6170556231713299950
+    second: brick walls finished_133
+  - first:
+      213: -708309041726805535
+    second: brick walls finished_134
+  - first:
+      213: -6973756837551686522
+    second: brick walls finished_135
+  - first:
+      213: 4959622541327069955
+    second: brick walls finished_136
+  - first:
+      213: -7882436164723989819
+    second: brick walls finished_137
+  - first:
+      213: 2313007875101071768
+    second: brick walls finished_138
+  - first:
+      213: -176770062145030425
+    second: brick walls finished_139
+  - first:
+      213: -3633277632631554683
+    second: brick walls finished_140
+  - first:
+      213: -8980704991160484200
+    second: brick walls finished_141
+  - first:
+      213: 817540057720165750
+    second: brick walls finished_142
+  - first:
+      213: 2179067619886070968
+    second: brick walls finished_143
+  - first:
+      213: 2273176199910740564
+    second: brick walls finished_144
+  - first:
+      213: 1876246731250472040
+    second: brick walls finished_145
+  - first:
+      213: 3483722665844853116
+    second: brick walls finished_146
+  - first:
+      213: 3669159182128690966
+    second: brick walls finished_147
+  - first:
+      213: 2418398612250591440
+    second: brick walls finished_148
+  - first:
+      213: -4116656000747355400
+    second: brick walls finished_149
+  - first:
+      213: -3875129890298553491
+    second: brick walls finished_150
+  - first:
+      213: -6670706398397042387
+    second: brick walls finished_151
+  - first:
+      213: 4632045960122520258
+    second: brick walls finished_152
+  - first:
+      213: 8111776063799690072
+    second: brick walls finished_153
+  - first:
+      213: 1831117092033393825
+    second: brick walls finished_154
+  - first:
+      213: -7863207491510479499
+    second: brick walls finished_155
+  - first:
+      213: 3065900127328228731
+    second: brick walls finished_156
+  - first:
+      213: -8738348323867264995
+    second: brick walls finished_157
+  - first:
+      213: -619222925017352664
+    second: brick walls finished_158
+  - first:
+      213: -8574731824666110044
+    second: brick walls finished_159
+  - first:
+      213: -504440496528999358
+    second: brick walls finished_160
+  - first:
+      213: 8022958936049386545
+    second: brick walls finished_161
+  - first:
+      213: 5552274131142926557
+    second: brick walls finished_162
+  - first:
+      213: 3066952775304258598
+    second: brick walls finished_163
+  - first:
+      213: -7887682650429280627
+    second: brick walls finished_164
+  - first:
+      213: -561484939286141204
+    second: brick walls finished_165
+  - first:
+      213: -1899420587430239058
+    second: brick walls finished_166
+  - first:
+      213: -1730133854659614907
+    second: brick walls finished_167
+  - first:
+      213: -4430764685093138790
+    second: brick walls finished_168
+  - first:
+      213: 5655362816600812064
+    second: brick walls finished_169
+  - first:
+      213: 4949310288030850876
+    second: brick walls finished_170
+  - first:
+      213: 6298408232506528324
+    second: brick walls finished_171
+  - first:
+      213: -6245718351900422306
+    second: brick walls finished_172
+  - first:
+      213: -7408496651858779764
+    second: brick walls finished_173
+  - first:
+      213: -2005457465652260007
+    second: brick walls finished_174
+  - first:
+      213: 6684503828409093626
+    second: brick walls finished_175
+  - first:
+      213: -6749894914089493646
+    second: brick walls finished_176
+  - first:
+      213: 1137560755130793209
+    second: brick walls finished_177
+  - first:
+      213: -8214320165226819718
+    second: brick walls finished_178
+  - first:
+      213: 8673916727107704783
+    second: brick walls finished_179
+  - first:
+      213: 7751444628469037646
+    second: brick walls finished_180
+  - first:
+      213: 9092171219712896418
+    second: brick walls finished_181
+  - first:
+      213: -2871661841493302454
+    second: brick walls finished_182
+  - first:
+      213: -1894192811462359309
+    second: brick walls finished_183
+  - first:
+      213: -5083682305880410947
+    second: brick walls finished_184
+  - first:
+      213: 5622674357446715736
+    second: brick walls finished_185
+  - first:
+      213: 8005383058848326657
+    second: brick walls finished_186
+  - first:
+      213: -5722091218034587567
+    second: brick walls finished_187
+  - first:
+      213: 3214935481063413474
+    second: brick walls finished_188
+  - first:
+      213: 6782875987169414331
+    second: brick walls finished_189
+  - first:
+      213: -969986400290465879
+    second: brick walls finished_190
+  - first:
+      213: -7749081574235112262
+    second: brick walls finished_191
+  - first:
+      213: 5709059041889539310
+    second: brick walls finished_192
+  - first:
+      213: 770927425573494896
+    second: brick walls finished_193
+  - first:
+      213: -1122062442922435616
+    second: brick walls finished_194
+  - first:
+      213: 3809209997830406850
+    second: brick walls finished_195
+  - first:
+      213: 544659200680548196
+    second: brick walls finished_196
+  - first:
+      213: -4159309206645565333
+    second: brick walls finished_197
+  - first:
+      213: 7415148924376197962
+    second: brick walls finished_198
+  - first:
+      213: -5663130046866174376
+    second: brick walls finished_199
+  - first:
+      213: 85188382636111371
+    second: brick walls finished_200
+  - first:
+      213: 1903182999099389840
+    second: brick walls finished_201
+  - first:
+      213: 6306397323530690362
+    second: brick walls finished_202
+  - first:
+      213: 7016241455567123614
+    second: brick walls finished_203
+  - first:
+      213: -2914773973587838702
+    second: brick walls finished_204
+  - first:
+      213: 8413780643427805489
+    second: brick walls finished_205
+  - first:
+      213: -3051535508719104846
+    second: brick walls finished_206
+  - first:
+      213: -1943830540167488947
+    second: brick walls finished_207
+  - first:
+      213: -2391407360178383401
+    second: brick walls finished_208
+  - first:
+      213: 1579537916188081184
+    second: brick walls finished_209
+  - first:
+      213: 4903450227029564429
+    second: brick walls finished_210
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brick walls finished_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 807
+        width: 430
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d24709c2ab7340800000000000000
+      internalID: 4862659206970528626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 944
+        width: 153
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9b8b03356012a0800000000000000
+      internalID: -6768798970026419627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_2
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 952
+        width: 209
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3b7c05f7d9d9820800000000000000
+      internalID: 2926668503002362877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_5
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 922
+        width: 211
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae3dbf31d13a090800000000000000
+      internalID: -8024538139377538460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_6
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 801
+        width: 440
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1324cbae4a7e40800000000000000
+      internalID: 5654918781754089220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 807
+        width: 183
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d5da1142c9daf0800000000000000
+      internalID: -371051909402470323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 786
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc33e96e90ef27930800000000000000
+      internalID: 4139650325984195531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 535
+        width: 329
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c9d69b96d62ef0800000000000000
+      internalID: -133183175221722069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 631
+        width: 139
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbfab5f55edc450800000000000000
+      internalID: 6110792467134528294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_47
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 531
+        width: 214
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cc121f05b01c00800000000000000
+      internalID: 869393804415516955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_48
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 531
+        width: 214
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661f279117afe1b0800000000000000
+      internalID: -5625093715569731992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_95
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 499
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254db0cbd65d81d70800000000000000
+      internalID: 9014189321465091154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_99
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 573
+        width: 181
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b7b54007f91f70800000000000000
+      internalID: 9158622897776341561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_100
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 273
+        width: 329
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4cc92774d3aec10800000000000000
+      internalID: 2083545154687124706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_144
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 420
+        width: 302
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525d83c5b1fb8f10800000000000000
+      internalID: 2273176199910740564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_159
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 237
+        width: 183
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71a8a16de600980800000000000000
+      internalID: -8574731824666110044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_161
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 165
+        width: 208
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13405c615a6475f60800000000000000
+      internalID: 8022958936049386545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_165
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 210
+        width: 167
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62e1f2c643538f0800000000000000
+      internalID: -561484939286141204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_168
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 225
+        width: 232
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8dad7ef2c282c0800000000000000
+      internalID: -4430764685093138790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_35
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 668
+        width: 216
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34322eebf255c9410800000000000000
+      internalID: 1485155640679736131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 496
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc42e215f3fdddc0800000000000000
+      internalID: -3612463092171911994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_36
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 494
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec74090f9fd81440800000000000000
+      internalID: 4906917668164238565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_37
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 363
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe09fbc6911a7ef0800000000000000
+      internalID: -109755901552292106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_38
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 365
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9535948a91eff0800000000000000
+      internalID: -8555830048350348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_39
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 368
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491269625d9d1c50800000000000000
+      internalID: 6637634403094894918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_40
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 364
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b58e5e13fbe7bc0800000000000000
+      internalID: -3783376415913125101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_41
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 366
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fe6435df65f3170800000000000000
+      internalID: 8160336695842500436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_42
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 369
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b104c12f49a210800000000000000
+      internalID: 1344692970187765926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 495
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8367faf75ed810800000000000000
+      internalID: 1791966437143972547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 497
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe8614649e760d00800000000000000
+      internalID: 938576748152786618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_45
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 500
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a92ad130e7eca00800000000000000
+      internalID: 778698337428871716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_3
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 790
+        width: 194
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d2daa3c25a9360800000000000000
+      internalID: 7177139956506349680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brick walls finished_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 569
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c56b876866be90800000000000000
+      internalID: -7010300976025976434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
