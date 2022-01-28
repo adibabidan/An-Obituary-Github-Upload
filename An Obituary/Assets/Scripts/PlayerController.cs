@@ -240,9 +240,9 @@ public class PlayerController : GravityObject
         }
         else
         {
-            move.x = Input.GetAxis("Horizontal");
+            move.x = InputManager.GetHorizontal();
 
-            if (Input.GetButton("Sprint") && !isInSmoke)
+            if (InputManager.GetSprint() && !isInSmoke)
             {
                 isSprinting = true;
             }
@@ -253,11 +253,11 @@ public class PlayerController : GravityObject
 
             if (!isClimbing)
             {
-                if (Input.GetButtonDown("Jump") && grounded)
+                if (InputManager.GetJumpDown() && grounded)
                 {
                     startJump = true;
                 }
-                if (Input.GetButtonUp("Jump") && velocity.y > 0 && !isLeaping)
+                if (InputManager.GetJumpUp() && velocity.y > 0 && !isLeaping)
                 {
                     stopJump = true;
                 }
