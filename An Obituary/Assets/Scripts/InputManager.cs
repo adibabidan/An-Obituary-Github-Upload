@@ -9,12 +9,12 @@ public class InputManager : MonoBehaviour
  
     //Create Keycodes that will be associated with each of our commands.
     //These can be accessed by any other script in our game
-    private KeyCode jump;
-    private KeyCode left;
-    private KeyCode right;
-    private KeyCode sprint;
+    private KeyCode jumpKey;
+    private KeyCode leftKey;
+    private KeyCode rightKey;
+    private KeyCode sprintKey;
 
-    public enum PressType {
+    private enum PressType {
         GetDown,
         GetUp,
         Get
@@ -47,6 +47,7 @@ public class InputManager : MonoBehaviour
         rightKey = (KeyCode) System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("rightKey", "D"));
         jumpKey = (KeyCode) System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("jumpKey", "Space"));
         sprintKey = (KeyCode) System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("sprintKey", "LeftShift"));
+        Debug.Log(sprintKey);
     }
 
     public int GetHorizontal() {
@@ -55,13 +56,11 @@ public class InputManager : MonoBehaviour
         if(right != left) {
             if (right) {
                 return 1;
-            }
-            if (left) {
+            } else if (left) {
                 return -1;
             }
-        } else {
-            return 0;
         }
+        return 0;
     }
 
     /*
@@ -97,7 +96,7 @@ public class InputManager : MonoBehaviour
      * type - a negative number for getKeyDown, a positive number for getKeyUp, 0 for getKey.
      */
     public bool GetSprint() {
-        return parseKey(sprintKey, PressType.GetUp);
+        return parseKey(sprintKey, PressType.Get);
     }
 
     private bool parseKey(KeyCode key, PressType type) {

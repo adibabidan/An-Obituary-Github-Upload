@@ -24,14 +24,14 @@ public class PlayerController : GravityObject
     public float ledgeClimbYOffset1 = 0f;
     public float ledgeClimbXOffset2 = 0f;
     public float ledgeClimbYOffset2 = 0f;
-
+   
     public LayerMask whatIsGround;
 
     public SceneTransitionData spawnPositionData;
 
     public bool ignoreSceneTransition { get; protected set;}
 
-    public GameObject smokeParticles;
+    public ParticleSystem smokeParticles;
 
     protected Vector2 move;
     protected bool isTouchingWall;
@@ -94,7 +94,8 @@ public class PlayerController : GravityObject
             StartForceMovement(spawnPositionData.direction);
             TimerManager.Instance.SetTimer(0.4f, StopForceMovement);
         }
-        smokeParticles.SetActive(false);
+        var smokeEmission = smokeParticles.emission;
+        smokeEmission.enabled = false;
     }
 
     public void EnterSludge()
@@ -122,7 +123,8 @@ public class PlayerController : GravityObject
         Debug.Log(sunCount);
         isInSun = true;
         sunCount += 1;
-        smokeParticles.SetActive(true);
+        var smokeEmission = smokeParticles.emission;
+        smokeEmission.enabled = true;
         Debug.Log(sunCount);
     }
 
@@ -133,7 +135,8 @@ public class PlayerController : GravityObject
         if (sunCount <= 0)
         {
             isInSun = false;
-            smokeParticles.SetActive(false);
+            var smokeEmission = smokeParticles.emission;
+            smokeEmission.enabled = false;
             sunCount = 0;
         }
         Debug.Log(sunCount);
@@ -190,7 +193,8 @@ public class PlayerController : GravityObject
     public void FinishDying()
     { 
         transform.position = respawnPoint;
-        smokeParticles.SetActive(false);
+        var smokeEmission = smokeParticles.emission;
+        smokeEmission.enabled = false;
         isDying = false;
     }
 
@@ -240,9 +244,9 @@ public class PlayerController : GravityObject
         }
         else
         {
-            move.x = InputManager.GetHorizontal();
+            move.x = InputManager.Instance.GetHorizontal();
 
-            if (InputManager.GetSprint() && !isInSmoke)
+            if (InputManager.Instance.GetSprint() && !isInSmoke)
             {
                 isSprinting = true;
             }
@@ -253,11 +257,11 @@ public class PlayerController : GravityObject
 
             if (!isClimbing)
             {
-                if (InputManager.GetJumpDown() && grounded)
+                if (InputManager.Instance.GetJumpDown() && grounded)
                 {
                     startJump = true;
                 }
-                if (InputManager.GetJumpUp() && velocity.y > 0 && !isLeaping)
+                if (InputManager.Instance.GetJumpUp() && velocity.y > 0 && !isLeaping)
                 {
                     stopJump = true;
                 }

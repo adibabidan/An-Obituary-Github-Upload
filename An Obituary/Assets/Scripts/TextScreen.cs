@@ -21,7 +21,7 @@ public class TextScreen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetButtonDown("Interact"))
+        if(Input.anyKeyDown)
         {
             textBoxObjs[slide].SetActive(false);
             slide += 1;
